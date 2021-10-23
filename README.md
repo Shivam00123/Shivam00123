@@ -26,8 +26,9 @@
 <p/>
 <br/>
 <p><img align="right" src="https://github.com/Shivam00123/Shivam00123/blob/master/giphy.gif" width="520" height="270" alt="gif"/></p>
+
 **Back-end**
-**<br/>**
+<br/>
 
 <p>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/nodejs.png"/> </a> 
