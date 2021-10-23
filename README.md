@@ -5,17 +5,18 @@
 
 ## 🙋‍♂️ About Me
 
+
 - 🌱 I’m currently learning **React and Redux.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
 - ⚡ Fun fact **I consider myself Antelophobic.**
 
+
 ## 🚀 Languages and Tools:
 
 **<br/>**
 **Front-End**
-
 <p align="left">
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/officel/50/000000/react.png"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript.png"/> </a> 
@@ -24,7 +25,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/redux.png"/> </a>
 <p/>
 <br/>
-
+<p><img align="right" src="https://github.com/Shivam00123/Shivam00123/blob/master/giphy.gif" width="520" height="270" alt="gif"/></p>
 **Back-end**
 **<br/>**
 
