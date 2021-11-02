@@ -14,6 +14,9 @@
 - ⚡ Fun fact **I consider myself Antelophobic.**
 
 
+## My Resume:
+<a href="https://github.com/Shivam00123/Shivam00123/blob/master/Myresume.pdf"><img src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/50/000000/external-resume-company-itim2101-lineal-color-itim2101.png"/></a>
+
 ## 🚀 Languages and Tools:
 
 **<br/>**
