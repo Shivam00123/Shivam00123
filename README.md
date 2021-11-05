@@ -15,7 +15,7 @@
 
 
 ## My Resume:
-<a href="https://github.com/Shivam00123/Shivam00123/blob/master/Myresume.pdf"><img src="https://github.com/Shivam00123/Shivam00123/blob/master/icons8-resume-64.png"/></a>
+<a href="https://github.com/Shivam00123/Shivam00123/blob/master/Myresume.pdf"><img src="https://github.com/Shivam00123/Shivam00123/blob/master/updatedResume.pdf"/></a>
 
 ## 🚀 Languages and Tools:
 
