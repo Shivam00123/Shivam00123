@@ -82,7 +82,7 @@
 
 ## Contact Me:
 
-<a href="mailto:shivamjackson6@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href="mailto:shivamrawat06994@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
 
 ## Connect with me:
 
