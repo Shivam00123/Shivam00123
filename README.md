@@ -89,6 +89,6 @@
 <p align="left">
 
 <a href = "https://twitter.com/Shivam48794147"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "www.instagram.com/s_h_i_v_a_m_101"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/s_h_i_v_a_m_101"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
