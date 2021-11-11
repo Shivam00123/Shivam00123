@@ -82,13 +82,14 @@
 
 ## Contact Me:
 
-<a href="mailto:shivamrawat06994@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/></a>
+<a href="mailto:shivamrawat06994@gmail.com"><img src="https://github.com/Shivam00123/Shivam00123/blob/master/icons8-gmail-48.png"/></a>
+<a href="https://www.linkedin.com/in/shivam-rawat-479440225/"><img src="https://github.com/Shivam00123/Shivam00123/blob/master/icons8-linkedin-48.png"/></a>
 
 ## Connect with me:
 
 <p align="left">
 
-<a href = "https://twitter.com/Shivam48794147"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/s_h_i_v_a_m_101"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
+<a href = "https://twitter.com/Shivam48794147"><img src="https://github.com/Shivam00123/Shivam00123/blob/master/icons8-twitter-48.png"/></a>
+<a href = "https://www.instagram.com/s_h_i_v_a_m_101"><img src="https://github.com/Shivam00123/Shivam00123/blob/master/icons8-instagram-48.png"/></a>
+<a href="https://www.facebook.com/people/Shivam-Rawat/100064110075814/"><img src="https://github.com/Shivam00123/Shivam00123/blob/master/icons8-facebook-48.png"/><a/>
 </p>
