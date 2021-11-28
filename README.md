@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎃 I'm currently working on **Twitter-Clone.**
+- 🎃 I'm currently working on **Reddit-Clone.**
 
 - 🌱 I’m currently learning **React and Redux.**
 
