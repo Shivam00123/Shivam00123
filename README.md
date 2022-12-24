@@ -5,9 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🎃 I'm currently learning **Jest.**
+- 🎃 I'm working for a company **MasalaGames.**
 
-- 🌱 I’m currently learning **React and Redux.**
+- 🌱 Currently working on a project.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
