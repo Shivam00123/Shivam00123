@@ -1,13 +1,13 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/Shivam00123/Shivam00123/blob/master/1-yF3so6lMw4eECk7LONmDwQ.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is Shivam</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h3 align="center">I am an enthusiastic Full Stack Developer from India.</h3>
 
 ## 🙋‍♂️ About Me
 
-- 🎃 I'm working for a company **MasalaGames.**
+- 💼 I am currently working for a company **Prosperasoft.**
 
-- 🌱 Currently working on a project.
+- 😉 Presently engaged in a Data Protection project
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
