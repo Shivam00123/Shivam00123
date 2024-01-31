@@ -9,7 +9,7 @@
 
 - 😉 Presently engaged in a Data Protection project.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
+- 👯 I’m open for a Freelancing project.
 
 - ⚡ Fun fact **I consider myself Antelophobic.**
 
