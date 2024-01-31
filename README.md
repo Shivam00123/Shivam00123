@@ -7,7 +7,7 @@
 
 - 💼 I am currently working for a company **Prosperasoft.**
 
-- 😉 Presently engaged in a Data Protection project
+- 😉 Presently engaged in a Data Protection project.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
