@@ -27,6 +27,7 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/css3.png"/> </a>
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/50/000000/redux.png"/> </a>
+    <a href="https://pugjs.org"><img width="48" height="48" src="https://img.icons8.com/fluency/48/pug.png" alt="pug"/></a>
 <p/>
 <br/>
 <p><img align="right" src="https://github.com/Shivam00123/Shivam00123/blob/master/giphy.gif" width="520" height="270" alt="gif"/></p>
