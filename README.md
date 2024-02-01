@@ -75,7 +75,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Shivam00123/github-readme-activity-graph"><img alt="Shivam00123 Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shivam00123&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
